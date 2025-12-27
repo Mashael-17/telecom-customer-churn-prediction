@@ -6,6 +6,10 @@ Project Summary
 
 This project predicts customer churn for a telecommunications company using supervised machine learning. The objective is to identify key churn drivers and build a model that can support data-driven retention strategies.
 
+## About the Repository
+- [Dataset](data/)
+- [Jupyter Notebook](notebook/)
+
 ## Data
 
 7,043 customers, 21 features
@@ -66,3 +70,10 @@ Improve customer lifetime value through targeted interventions
 
 This project was developed as part of my Master of Data Science program, within the
 Advanced Data Mining course.
+
+## Contact
+For any questions, please contact me:
+
+- [LinkedIn](https://www.linkedin.com/in/mashael-alsogair-97b754230/)
+
+Thank you!
