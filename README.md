@@ -62,6 +62,7 @@ Prioritize retention efforts for short-term contracts
 
 Improve customer lifetime value through targeted interventions
 
-### Notes
+## Note
+
 This project was developed as part of my Master of Data Science program, within the
 Advanced Data Mining course.
